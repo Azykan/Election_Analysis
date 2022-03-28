@@ -32,7 +32,7 @@ Winning Percentage: 73.8%
 
 # Election Audit Summary
 
-*Data files could be provided for the number of registered voters in each county, and the code would be modified by using the number of registered voters as the denominator in the voter turnout calculation %.
-*For additional elections, State would be necesasry when evaluating results across states and countries. The files would need a State and Country column, and the code would need to be modified to calculate the county results within each State and Country correctly.
+-Data files could be provided for the number of registered voters in each county, and the code would be modified by using the number of registered voters as the denominator in the voter turnout calculation %.
+-For additional elections, State would be necesasry when evaluating results across states and countries. The files would need a State and Country column, and the code would need to be modified to calculate the county results within each State and Country correctly.
 
 
