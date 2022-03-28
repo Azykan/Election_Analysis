@@ -36,4 +36,3 @@ Winning Percentage: 73.8%
 
 -For additional elections, State would be necesasry when evaluating results across states and countries. The files would need a State and Country column, and the code would need to be modified to calculate the county results within each State and Country correctly.
 
-
