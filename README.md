@@ -1,4 +1,6 @@
 # Election_Analysis
+Help Tom and Seth Analyze the election results for the Colorado Board of Elections.
+
 By getting a total vote count of each candidate who received votes.  
 Calculating the percentage of each candidate to determine who won the election.
 
