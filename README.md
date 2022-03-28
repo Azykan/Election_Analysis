@@ -1,4 +1,6 @@
 # Election_Analysis
+
+## Overview
 Help Tom and Seth Analyze the election results for the Colorado Board of Elections.
 
 By getting a total vote count of each candidate who received votes.  
@@ -8,8 +10,9 @@ My data resource is the election_results.csv file that I analyzed in Python 3.7 
 
 The final analysis of all 3 candidates showed that the winner won with 73.8% of the 369,711 total votes.
 
+## Election Results
 
-# Election Results
+```
 -------------------------
 Total Votes: 369,711
 -------------------------
@@ -29,10 +32,11 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+```
 
-# Election Audit Summary
+## Election Audit Summary
 
--Data files could be provided for the number of registered voters in each county, and the code would be modified by using the number of registered voters as the denominator in the voter turnout calculation %.
+- Data files could be provided for the number of registered voters in each county, and the code would be modified by using the number of registered voters as the denominator in the voter turnout calculation %.
 
--For additional elections, State would be necesasry when evaluating results across states and countries. The files would need a State and Country column, and the code would need to be modified to calculate the county results within each State and Country correctly.
+- For additional elections, State would be necesasry when evaluating results across states and countries. The files would need a State and Country column, and the code would need to be modified to calculate the county results within each State and Country correctly.
 
